@@ -3,14 +3,11 @@ This is a simple HTML5 template for big projects
 
 ## How to install it
 
-### Clone with SSH 
-<pre>git clone git@github.com:besnikhysaj/starter-html5-template.git</pre>
-
 ### Clone with HTTPS 
-<pre>git clone https://github.com/besnikhysaj/starter-html5-template.git</pre>
+<pre>git clone https://github.com/besnikhysaj/boostrap-starter-template.git</pre>
 
 ### Direct download
-https://github.com/besnikhysaj/starter-html5-template/archive/master.zip
+https://github.com/besnikhysaj/boostrap-starter-template/archive/master.zip
 
 ## After install
 
