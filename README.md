@@ -18,4 +18,4 @@ https://github.com/besnikhysaj/bootstrap-starter-template/archive/master.zip
 <pre>grunt copy</pre> 
 
 - Create a local server with GruntJs
-<pre>grunt | grunt serve</pre>
+<pre>grunt or grunt serve</pre>
