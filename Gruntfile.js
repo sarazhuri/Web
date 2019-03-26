@@ -61,15 +61,6 @@ module.exports = function (grunt) {
 
 	});
 
-	//load all Npm tasks
-	// grunt.loadNpmTasks('load-grunt-tasks');
-	// grunt.loadNpmTasks('grunt-contrib-watch');
-	// grunt.loadNpmTasks('grunt-contrib-connect');
-	// grunt.loadNpmTasks('grunt-contrib-copy');
-
-	//register tasks to be run
-	grunt.registerTask('copy', ['copy']);
-
 	//register tasks to be run
 	grunt.registerTask('serve', ['sass', 'connect:livereload', 'watch']);
 
