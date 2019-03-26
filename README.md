@@ -14,5 +14,8 @@ https://github.com/besnikhysaj/bootstrap-starter-template/archive/master.zip
 - Install all npm dependecies
 <pre>npm install</pre> 
 
+- Copy dependecies to libs folder
+<pre>grunt copy</pre> 
+
 - Create a local server with GruntJs
-<pre>grunt</pre>
+<pre>grunt | grunt serve</pre>
